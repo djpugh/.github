@@ -1,0 +1,1 @@
+_extends: djpugh/workflows:configs/release-drafter.yml
